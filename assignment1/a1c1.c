@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	printf("enter the length and breadth");
-	float l,b,area;
-	scanf("%f %f" ,&l,&b);
-	area=l*b;
+	printf("enter the length anf jkhggfxgand breadth");
+	float l,c,area;
+	scanf("%f %f" ,&l,&c);
+	area=l*c;
 	printf("area of rectangle %f", area);
 }
